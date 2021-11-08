@@ -1,0 +1,6 @@
+c:\users\laresa rianti\onedrive\dokumen\visual studio 2015\Projects\P1_4_1204053\P1_4_1204053\bin\Debug\P1_4_1204053.exe.config
+c:\users\laresa rianti\onedrive\dokumen\visual studio 2015\Projects\P1_4_1204053\P1_4_1204053\bin\Debug\P1_4_1204053.exe
+c:\users\laresa rianti\onedrive\dokumen\visual studio 2015\Projects\P1_4_1204053\P1_4_1204053\bin\Debug\P1_4_1204053.pdb
+c:\users\laresa rianti\onedrive\dokumen\visual studio 2015\Projects\P1_4_1204053\P1_4_1204053\obj\Debug\P1_4_1204053.csprojResolveAssemblyReference.cache
+c:\users\laresa rianti\onedrive\dokumen\visual studio 2015\Projects\P1_4_1204053\P1_4_1204053\obj\Debug\P1_4_1204053.exe
+c:\users\laresa rianti\onedrive\dokumen\visual studio 2015\Projects\P1_4_1204053\P1_4_1204053\obj\Debug\P1_4_1204053.pdb
